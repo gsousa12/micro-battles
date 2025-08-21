@@ -1,0 +1,11 @@
+{
+  "name": "@micro-battles/types",
+  "version": "1.0.0",
+  "devDependencies": {
+    "typescript": "catalog:",
+    "@types/node": "catalog:"
+  },
+  "scripts": {
+    "dev": "bun --watch run src/server.ts"
+  }
+}
