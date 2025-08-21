@@ -1,9 +1,0 @@
-{
-  "name": "@micro-battles/db",
-  "version": "1.0.0",
-  "devDependencies": {
-    "typescript": "catalog:",
-    "@types/node": "catalog:",
-    "@types/bun": "catalog:"
-  }
-}
